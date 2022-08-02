@@ -1,0 +1,14 @@
+#urlbar-background {
+  border-radius: 20px !important;
+  overflow: hidden !important;
+}
+
+#identity-box {
+  border-radius: 20px !important;
+  overflow: hidden !important;
+}
+
+#page-action-buttons {
+  border-radius: 20px !important;
+  overflow: hidden !important;
+}
