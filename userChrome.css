@@ -1,13 +1,6 @@
-#urlbar-background {
-  border-radius: 20px !important;
-  overflow: hidden !important;
-}
-
-#identity-box {
-  border-radius: 20px !important;
-  overflow: hidden !important;
-}
-
+#urlbar-background,
+#identity-box,
+#tracking-protection-icon-container,
 #page-action-buttons {
   border-radius: 20px !important;
   overflow: hidden !important;
