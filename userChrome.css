@@ -5,3 +5,8 @@
   border-radius: 20px !important;
   overflow: hidden !important;
 }
+
+#identity-box[pageproxystate="valid"].verifiedDomain #identity-icon,
+#identity-box[pageproxystate="valid"].mixedActiveBlocked #identity-icon {
+  list-style-image: url(./icons/connection-1x.svg) !important;
+}
